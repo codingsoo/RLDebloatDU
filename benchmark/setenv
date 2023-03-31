@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export BENCHMARK_HOME=$(pwd)
+export CC=clang
