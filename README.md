@@ -1,4 +1,4 @@
-# ICSE Submission
+# ICSE Poster Submission
 
 This README file provides instructions on setting up the environment, installing dependencies, and running our project.
 
